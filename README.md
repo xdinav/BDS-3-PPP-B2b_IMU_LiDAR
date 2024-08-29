@@ -7,4 +7,6 @@ The on-board experimental hardware platform is shown as follows.
 
 The observation environments in the campus and park are shown in the following two figure. The download website is 
 
+![campus](https://github.com/user-attachments/assets/d0b8820e-3cd2-48da-a535-c0e0e0027bc9)
 
+![park](https://github.com/user-attachments/assets/69cd32d0-2b0e-479a-8093-a56b489bf385)
