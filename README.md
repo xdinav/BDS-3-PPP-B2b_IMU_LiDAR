@@ -5,8 +5,10 @@ The on-board experimental hardware platform is shown as follows.
 
 ![platform](https://github.com/user-attachments/assets/a228e7d6-6155-4985-8975-dd9e97001eab)
 
-The observation environments in the campus and park are shown in the following two figure. The download website is 
+The observation environments in the campus and park are shown in the following two figure. 
 
 ![campus](https://github.com/user-attachments/assets/d0b8820e-3cd2-48da-a535-c0e0e0027bc9)
 
 ![park](https://github.com/user-attachments/assets/69cd32d0-2b0e-479a-8093-a56b489bf385)
+
+And to arouse the interest of potential readers, the two experimental datasets in the campus and park are shared in the Download.txt, and this document gives a download link of Baidu.com
